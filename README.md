@@ -8,6 +8,7 @@
 
 Tech Blog is about databases and programming. All content is published on [telegra.ph](https://telegra.ph).
 
+* Main Site: [Huang Blog](https://xn--29s704loyd.com/)
 * Contact: [ludwighuang@yeah.net](mailto:ludwighuang@yeah.net)
 
 ### Blogs
