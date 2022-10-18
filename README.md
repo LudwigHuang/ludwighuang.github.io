@@ -17,4 +17,5 @@ Tech Blog is about databases and programming. All content is published on [teleg
 * bustub review
     * [bustub-0](https://telegra.ph/bustub-0-10-16): Disk Manager
     * [bustub-1](https://telegra.ph/bustub-1-10-17): Buffer Pool Manager
+    * [bustub-2](https://telegra.ph/bustub-2-10-18): Access Methods
 
