@@ -13,7 +13,8 @@ Tech Blog is about databases and programming. All content is published on [teleg
 
 ### Blogs
 
-* [mmap](https://telegra.ph/mmap-internals--why-it-sucks-in-DBMS-10-08): `mmap` internals & why it sucks in DBMS
+* [mmap](https://telegra.ph/mmap-11-28): `mmap` internals & why it sucks in DBMS
+* [planner](https://telegra.ph/planner-11-28): Database Query Planner
 * bustub review
     * [bustub-0](https://telegra.ph/bustub-0-10-16): Disk Manager
     * [bustub-1](https://telegra.ph/bustub-1-10-17): Buffer Pool Manager
