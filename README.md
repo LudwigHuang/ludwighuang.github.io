@@ -14,8 +14,7 @@ Tech Blog is about databases and programming. All content is published on [teleg
 ### Blogs
 
 * [mmap](https://telegra.ph/mmap-11-28): `mmap` internals & why it sucks in DBMS
-* [planner](https://telegra.ph/planner-11-28): Database Query Planner
-* [optimizer](https://telegra.ph/optimizer-11-30): Database Query Optimizer
+* [tcpip](https://telegra.ph/TCPIP-01-12): TCP/IP - "Reliable" component on Unreliable network
 * bustub review
     * [bustub-0](https://telegra.ph/bustub-0-10-16): Disk Manager
     * [bustub-1](https://telegra.ph/bustub-1-10-17): Buffer Pool Manager
@@ -23,4 +22,6 @@ Tech Blog is about databases and programming. All content is published on [teleg
       [b+tree](https://telegra.ph/btree-11-14)
     * [bustub-3](https://telegra.ph/bustub-3-10-19): Operator Execution
     * [bustub-4](https://telegra.ph/bustub-4-10-20): Concurrency Control
+    * [planner](https://telegra.ph/planner-11-28): Database Query Planner
+    * [optimizer](https://telegra.ph/optimizer-11-30): Database Query Optimizer
 
